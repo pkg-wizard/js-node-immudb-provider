@@ -20,7 +20,7 @@
     "url": "https://github.com/pkg-wizard/js-node-immudb-provider/issues"
   },
   "dependencies": {
-    "commonjs-logger": "^1.0.0",
+    "js-node-logger": "^1.0.2",
     "immudb-node": "^1.1.1"
   },
   "devDependencies": {
