@@ -1,0 +1,35 @@
+{
+  "name": "js-node-immudb-provider",
+  "version": "1.0.0",
+  "description": "NodeJS Byteverse Immudb Provider",
+  "homepage": "https://github.com/pkg-wizard/js-node-immudb-provider#readme",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkg-wizard/js-node-immudb-provider.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -r ./dist"
+  },
+  "bugs": {
+    "url": "https://github.com/pkg-wizard/js-node-immudb-provider/issues"
+  },
+  "dependencies": {
+    "commonjs-logger": "^1.0.0",
+    "immudb-node": "^1.1.1"
+  },
+  "devDependencies": {
+    
+  },
+  "author": "pkg-wizard",
+  "license": "MIT",
+  "keywords": [
+    "immudb",
+    "immudb-node"
+  ]
+}
